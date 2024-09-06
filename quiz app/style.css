@@ -59,7 +59,7 @@ cursor: pointer;
   font-weight: 600;
 }
 
-#next-btn{ /* 'id' olduğu için '#' ile başlar */
+#next-btn{ 
 background-color: #001e4d;
 color: #fff;
 font-weight: 500;
